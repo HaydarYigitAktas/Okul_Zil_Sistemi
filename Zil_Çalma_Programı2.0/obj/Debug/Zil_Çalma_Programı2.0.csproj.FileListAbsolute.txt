@@ -1,0 +1,15 @@
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\bin\Debug\Zil_Çalma_Programı2.0.exe.config
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\bin\Debug\Zil_Çalma_Programı2.0.exe
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\bin\Debug\Zil_Çalma_Programı2.0.pdb
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\Zil_Çalma_Programı2.0.csproj.AssemblyReference.cache
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\Zil_Çalma_Programı2._0.Form1.resources
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\Zil_Çalma_Programı2._0.Properties.Resources.resources
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\Zil_Çalma_Programı2.0.csproj.GenerateResource.cache
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\Zil_Çalma_Programı2.0.csproj.CoreCompileInputs.cache
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\Zil_Çalma_Programı2.0.exe
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\Zil_Çalma_Programı2.0.pdb
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hayda\OneDrive\Masaüstü\Yazılım\Zil_Çalma_Programı2.0\obj\Debug\Zil_Çalma_Programı2.0.csproj.ResolveComReference.cache
