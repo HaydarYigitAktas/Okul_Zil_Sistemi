@@ -1,1 +1,7 @@
 Veri_Tabanı.TXT dosyasını C dizinine kopyalayınız
+
+Kullanım:
+
+Adım1: Sol üzt bölümdeki mavi kaydet buttonundan sisteme bir ses dosyası yükleyiniz
+Adım2: bir varsayılan ses seçiniz (varsayılan ses başka bir ses seçilmediği taktirde çalan sestir
+adım3: tabcontrolün 2 isimli sayfasından her ders için istenilen çalma saatini seçiniz ( seçilmediği taktirde hata verir)
